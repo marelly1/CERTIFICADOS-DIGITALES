@@ -1,0 +1,25 @@
+DATACAMP PYTHON
+dic certificate Data Scientist with Python Track
+dic certificate Cluster Analysis in Python
+dic certificate Case Study School Busgeting with Machine Learning in Python
+dic certificate Machine Learning with Tree-Based Models in Python
+dic certificate Unsupervised Learning in Python
+dic certificate Supervised Learning with scikit-learn
+dic certificate Statistical Thinking in Python (Part 2)
+dic certificate Statistical Thinking in Python (Part 1)
+dic certificate Analyzing Police Activity with pandas
+dic certificate Exploratory Data Analysis in Python
+dic certificate Writing Functions in Python
+dic certificate Working with Dates and Times in Python
+dic certificate Cleaning Data in Python
+nov certificate intermediate Importing Data in Python
+nov certificate Introduction to Importing Data in Python
+nov certificate Intermediate Data Visualization with Seaborn
+nov certificate Python Data Science Toolbox (Part 2)
+nov certificate Python Data Science Toolbox (Part 1)
+nov certificate Introduction to Data Visualization with Seaborn
+nov certificate Introduction to Data Visualization with Matplotlib
+nov certificate Joining Data with Pandas
+nov certificate Data Manipulation with pandas
+oct certificate Intermediate Python
+oct certificate Introduction to python
