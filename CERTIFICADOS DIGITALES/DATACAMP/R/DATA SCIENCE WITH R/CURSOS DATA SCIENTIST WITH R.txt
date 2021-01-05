@@ -1,0 +1,21 @@
+DATACAMP 2020
+dic certificate Data Scientist with R Track 
+dic certificate Cluster Analysis in R
+dic certificate Unsupervised Learning in R 
+dic certificate Supervised Learning in R Regression
+dic certificate Supervised Learning in R Classsification
+dic certificate Correlation and Regression in R
+dic certificate Case Study Exploratory Data Analysis in R
+dic certificate Exploratory Data Analysis in R
+dic certificate Introduction to Writing Functions in R
+dic certificate Working with Dates and Times in R
+dic certificate Cleaning Data in R
+dic certificate Intermediate Data in R
+dic certificate Introduction to Importing Data in R
+dic certificate Intermediate Data Visualization with ggplot2
+dic certificate Introduction to Data Visualization with ggplot2
+dic certificate Joining Data with dplyr
+dic certificate Data Manipulation with dplyr
+dic certificate Introduction to the Tidyverse
+dic certificate Intermediate R
+dic certificate Introduction to R
