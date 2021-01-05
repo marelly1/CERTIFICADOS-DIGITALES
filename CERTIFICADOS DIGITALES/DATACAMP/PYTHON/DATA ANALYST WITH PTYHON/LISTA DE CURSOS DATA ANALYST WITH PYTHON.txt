@@ -6,6 +6,7 @@ ene certificate Joining Data in SQL
 ene certificate Introduction to Relational Databases in SQL
 ene certificate Streamlined data Ingestion with pandas
 ene certificate Introduction to SQL
+ene certificate Introduction to Data Science with Python
 dic certificate Analyzing Police Activity with Pandas
 dic certificate Exploratory Data Analysis in Python
 dic certificate Cleaning Data in Python
@@ -16,4 +17,3 @@ nov certificate Introduction to Data Visualization with Matplotlib
 nov certificate Joining Data with pandas
 nov certificate Data Manipulation with pandas
 oct certificate Intermediate Python
-ene certificate Introduction to Data Science with Python
