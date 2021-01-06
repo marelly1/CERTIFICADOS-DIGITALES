@@ -1,0 +1,17 @@
+1. Introduction to Data Science in Python
+2. Data Types for data Science in Python
+3. Data Manipulation with pandas
+4. Python Data Science Toolbox (Part1)
+5. Python Data Science Toolbox (Part2)
+6. Writing Wfficient Python Code
+7. Working with Dates and Times in Python
+8. Regular Expressions in Python
+9. Web Scraping in Python
+10. Writing Functions in Python
+11. Introduction to Shell
+12. Conda Essentials
+13. Parallel Programming with Dask in Python
+14. Software Engineering for Data Scientist in Python
+15. Unit Testing for Data Science in Python
+16. Object-Oriented Programming in Python
+17. Python Programmer Track
